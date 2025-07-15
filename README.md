@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**tbm666/tbm666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧠 Семён Родионов / Semyon Rodionov
 
-Here are some ideas to get you started:
+## 📌 Описание / About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+tbm666 — это человек, который одновременно ищет глубину, дисциплину и мощь.  
+DevOps-инженер, философ-аналитик и человек, который умеет смотреть себе в глаза.
+
+tbm666 is a human project built on introspection, discipline, and clarity.  
+A DevOps engineer with a mind trained for systems — and a heart wired for truth.
+
+---
+
+## 🛠 Стек технологий / Tech Stack
+
+- 🐧 Linux / Ubuntu
+- 🐳 Docker, Promtail, Grafana, Loki
+- ⚙️ Git, Ansible, CI/CD
+- 🧠 Python (в процессе освоения)
+- ☁️ В планах: Kubernetes, Terraform, AWS
+
+---
+
+## 🧭 Принципы / Core Principles
+
+- Не ищу лёгких путей, ищу настоящие.    
+- Уважение, честность, рефлексия.
+
+> I don't chase comfort - I chase clarity.  
+> Respect. Truth. Discipline.
+
+---
+
+## 🧱 Цели / Goals
+
+- Стать сильным технарём, способным строить надёжные системы.  
+- Создать ИИ-агента, который помогает людям в реальных задачах.  
+- Оставить после себя не шум, а структуру.
+
+---
+
+## 📬 Контакты / Contact
+
+- Telegram: tbm666
+- Email: tbm666@yahoo.com
+
+---
