@@ -40,7 +40,7 @@ A DevOps engineer with a mind trained for systems — and a heart wired for trut
 
 ---
 
-## 📬 Контакты / Contact
+## 📬 Контакты / Contacts
 
 - Telegram: [tbm666](https://t.me/tbm666)
 - Email: [tbm666@yahoo.com](mailto:tbm666@yahoo.com)
